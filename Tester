@@ -1,0 +1,42 @@
+[
+    {
+        "deviceId": 1,
+        "deviceName": "PDU",
+        "deviceCode": "GDN-0011",
+        "lastModifiedDate": "March 19, 2016",
+        "description": "Power Distribution Unit",
+        "imageUrl": "https://cdn10.servertech.com/assets/images/images/751/default/SMART_POPS.jpg?1460064837"
+    },
+    {
+        "deviceId": 2,
+        "deviceName": "GESVR5806",
+        "deviceCode": "GDN-0023",
+        "lastModifiedDate": "March 18, 2016",
+        "description": "Server",
+        "imageUrl": "http://zpasgroup.co.uk/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/s/z/szafa-serwerowa-dc-dla-zabudowy-data-box.jpg"
+    },
+    {
+        "deviceId": 5,
+        "deviceName": "Router1523",
+        "deviceCode": "TBX-0048",
+        "lastModifiedDate": "May 21, 2016",
+        "description": "Router",
+        "imageUrl": "http://www.dlink.com/-/media/Images/Products/DSR/500N/2%20DSR500NA1Image%20LSide.png"
+    },
+    {
+        "deviceId": 8,
+        "deviceName": "GESVR128",
+        "deviceCode": "TBX-0022",
+        "lastModifiedDate": "May 15, 2016",
+        "description": "Server",
+        "imageUrl": "http://zpasgroup.co.uk/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/s/z/szafa-serwerowa-dc-dla-zabudowy-data-box.jpg"
+    },
+    {
+        "deviceId": 10,
+        "deviceName": "GESVR5050",
+        "deviceCode": "GMG-0042",
+        "lastModifiedDate": "October 15, 2015",
+        "description": "Server",
+        "imageUrl": "http://zpasgroup.co.uk/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/s/z/szafa-serwerowa-dc-dla-zabudowy-data-box.jpg"
+    }
+]
